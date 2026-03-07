@@ -11,7 +11,7 @@ The program does the following:
          otherwise, the first number is subtracted from the second and the fourth number is added to the third.
   5. The least common multiple is determined by calculating the half-sum of the values ​​of the third and fourth variables.
   6. The entered numbers and their greatest common divisor are displayed on the screen.
-Developed in the Apache NetBeans integrated environment (in the Microsoft Visual Studio editor).
+Developed in the Apache NetBeans integrated environment (in the Microsoft Visual Studio Code editor).
 
 CalcLcm. Занятия по Java. Консольное приложение. Простой Ввод/вывод. Алгоритмы.
 Консольное приложение написанное на языке программирования Java. 
