@@ -1,4 +1,4 @@
-CalcLcm. Java tutorials. Console Application. Simple Input/Output. Algorithms. 
+CalcLcm. Java tutorials. Console Application. Simple Input/Output. Algorithms.
 A console application in the Java programming language. 
 The program does the following:
   1. Prompts the user for two integers whose greatest common divisor needs to be found.
